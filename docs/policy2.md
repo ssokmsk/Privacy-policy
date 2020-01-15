@@ -14,7 +14,9 @@
 
 本アプリは使用者の個人情報を本アプリ内においてのみ使用します。
 
+
 ***  
+
 # Application Privacy Policy  
 ### About this document
 
